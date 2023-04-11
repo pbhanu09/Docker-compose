@@ -1,3 +1,4 @@
+//define the static variables
 const express = require('express')
 const redis = require('redis')
 
