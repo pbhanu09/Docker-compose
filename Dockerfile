@@ -9,4 +9,4 @@ RUN npm install
 # Copy all the project files to the working directory
 COPY ./ ./
 # Execute the solution using the below commands
-CMD["npm", "start"]
+CMD ["npm", "start"]
